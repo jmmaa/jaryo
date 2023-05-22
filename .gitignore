@@ -1,0 +1,11 @@
+
+# Python
+__pycache__
+
+# dev
+db.sqlite3
+.env
+.vscode
+
+# test
+endpoints.rest
